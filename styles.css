@@ -1,0 +1,36 @@
+body{
+background-color:firebrick;
+background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm_T2QK0TfZ1tJXViOfrHNMzgWM8TfFBeXwpyjBTsPEOPtCWvecQ"), url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWstLBZMooCJf3V4jVnxtlu4G8Z-dcEaPOIWHfwn7_wl4YlQ1GzQ");
+background-repeat:repeat-y;
+ background-position:right , left;
+ text-align:center;
+}
+
+button{
+background-color:teal;
+margin-top:5px;
+font-size:20px;
+}
+
+.year{
+background-color:peachpuff;    
+text-align:center;
+font-size:25px;
+}
+
+.name{
+background-color:gainsboro;
+text-align:center;
+font-size:25px;
+}
+
+.int{
+background-color:mistyrose;    
+text-align:center;
+font-size:25px;
+}
+
+p{
+font-size:25px; 
+color:limegreen;
+}
